@@ -20,7 +20,7 @@ Open the `index.html` file in any modern web browser to view the CV webpage.
 
 ## Project URL
 
-If hosted, the project can be viewed at: [Your Project URL Here]
+If hosted, the project can be viewed at: https://roadmap.sh/projects/single-page-cv
 
 Otherwise, open `index.html` locally in your browser to view the CV.
 
