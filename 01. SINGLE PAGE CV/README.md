@@ -18,6 +18,12 @@ The webpage uses basic HTML5 and inline CSS for styling. The layout is simple an
 
 Open the `index.html` file in any modern web browser to view the CV webpage.
 
+## Project URL
+
+If hosted, the project can be viewed at: [Your Project URL Here]
+
+Otherwise, open `index.html` locally in your browser to view the CV.
+
 ## Notes
 
 - This CV page and content is created as a learning project on [roadmap.sh](https://roadmap.sh).
